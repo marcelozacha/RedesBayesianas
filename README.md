@@ -67,3 +67,6 @@ Se quiser aprofundar ainda mais, algumas boas práticas são:
 - **Validação com dados reais:** testar o modelo com históricos de clientes para verificar a precisão das previsões.
 - **Ajuste dinâmico:** atualizar probabilidades conforme novos dados entram, mantendo o sistema adaptativo.
 - **Visualização gráfica:** usar bibliotecas como networkx ou pgmpy para representar a rede e facilitar a interpretação.
+
+As fontes das probabilidades poderiam ser das campanhas de anúncios no Meta Ads (anúncios no Instagram e Facebook), por exemplo.
+O profissional de dados iria analisar as campanhas junto ao gestor de tráfego e concluir esses números de probablidade com base nas estatísticas que eles têm em mão (CPA, CPC, CPM...) e modelar a rede para inferencia e visualização.
