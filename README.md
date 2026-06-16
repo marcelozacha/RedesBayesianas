@@ -70,3 +70,5 @@ Se quiser aprofundar ainda mais, algumas boas práticas são:
 
 As fontes das probabilidades poderiam ser das campanhas de anúncios no Meta Ads (anúncios no Instagram e Facebook), por exemplo.
 O profissional de dados iria analisar as campanhas junto ao gestor de tráfego e concluir esses números de probablidade com base nas estatísticas que eles têm em mão (CPA, CPC, CPM...) e modelar a rede para inferencia e visualização.
+
+Meu post original na Alura para empresas https://cursos.alura.com.br/forum/topico-projeto-faca-como-eu-fiz-construindo-uma-rede-bayesiana-568527
